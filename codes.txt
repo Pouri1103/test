@@ -1,0 +1,3 @@
+cout << "hello this codes !";
+int a = 4;
+cout << a<<'\n';
